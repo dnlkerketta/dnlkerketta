@@ -16,11 +16,14 @@
 <p align="center">Currently working on - Private Projects</p>
 <h3 align="center">Most Wanted Language</h3>
 <p align="center">
-  <p align="center">
     <img alt="python" width="65" height="65"
-      src="https://github.com/user-attachments/assets/25edc4fd-3393-426b-ab9c-a97f64ac3db7"/>
+      src="https://github.com/user-attachments/assets/25edc4fd-3393-426b-ab9c-a97f64ac3db7"+
+      />
   </p>
-
+<p align="center">
+  <img alt="Javascript" width="65" height="65"
+    src="https://github.com/user-attachments/assets/fffd992a-b0f5-4746-9f07-9515450ecb3d"/>
+</p>
 - 🌱 I’m currently learning **Framework, Courses, etc,.**
 
 - 📫 How to reach me **dnlkerketta21@gmail.com**
