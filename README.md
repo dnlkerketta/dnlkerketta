@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dnlkerketta21@gmail.com**
 
-- ⚡ Fun fact **Websites with multimedia content tend to rank higher in search engines than those that focus on text alone.**
+- ⚡ Fun fact : **Websites with multimedia content tend to rank higher in search engines than those that focus on text alone.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
