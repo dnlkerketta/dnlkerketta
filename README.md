@@ -2,14 +2,14 @@
   <img src="https://github.com/user-attachments/assets/7b9297e2-26f7-4aa9-8ee2-83eb55cdd119"/>
 </p>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Dniel+Kerketta;Full-Stack+Developer" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=DNIEL+KERKETTA;FULL-STACK+DEVELOPER" width="auto" height="35"/>
 </p>
 <p align="center">
   <img alt="coding" width="300" height="auto" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 </p>
 <h3 align="center">My Interest</h3>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Web+Developer;cloud+Engineer" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=ARTIFICIAL+INTELLIGENT;WEB+DEVELOPER; CLOUD+ENGINEER" width="auto" height="35"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnlkerketta&label=Profile%20views&color=0e75b6&style=flat" alt="dnlkerketta" /> </p>
 
