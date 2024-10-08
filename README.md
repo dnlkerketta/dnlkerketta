@@ -12,6 +12,14 @@
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=ARTIFICIAL+INTELLIGENT;WEB+DEVELOPER; CLOUD+ENGINEER" width="auto" height="35"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnlkerketta&label=Profile%20views&color=0e75b6&style=flat" alt="dnlkerketta" /> </p>
+<p align="center">Currently learning - Artificial Intelligence, Web Developing and Cloud Engineering</p>
+<p align="center">Currently working on - Private Projects</p>
+<h3 align="center">Most Wanted Language</h3>
+<p align="center">
+  <p align="center">
+    <img alt="python" width="65" height="65"
+      src="https://github.com/user-attachments/assets/25edc4fd-3393-426b-ab9c-a97f64ac3db7"/>
+  </p>
 
 - 🌱 I’m currently learning **Framework, Courses, etc,.**
 
