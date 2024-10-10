@@ -13,7 +13,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnlkerketta&label=Profile%20views&color=0e75b6&style=flat" alt="dnlkerketta" /> </p>
 <p align="center">Currently learning - Artificial Intelligence, Web Developing and Cloud Engineering</p>
-<p align="center">Currently working on - Private Projects</p>
+<p align="center">Currently working on - Learning</p>
 <h3 align="center">Most Wanted Language</h3>
 <p align="center">
     <img alt="python" width="65" height="65"
