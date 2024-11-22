@@ -37,9 +37,9 @@
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/@dnlkerketta21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dnlkerketta21" height="35" width="45" /></a>
-<a href="https://fb.com/daniel kerketta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel kerketta" height="35" width="45" /></a>
-<a href="https://instagram.com/_daniel_bryn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_daniel_bryn_" height="35" width="45" /></a>
+<a href="https://twitter.com/@dnlkerketta21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dnlkerketta21" height="40" width="50" /></a>
+<a href="https://fb.com/daniel kerketta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel kerketta" height="40" width="50" /></a>
+<a href="https://instagram.com/_daniel_bryn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_daniel_bryn_" height="40" width="50" /></a>
 </p>
 
 
