@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=merko&animation=default&layout=samuel&font=default&quoteType=quote-for-the-day&bgColor=default&fontColor=olive" weidth="300" height="default" />
 </p>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🔗 Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/@dnlkerketta21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dnlkerketta21" height="40" width="50" /></a>
 <a href="https://fb.com/daniel kerketta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel kerketta" height="40" width="50" /></a>
